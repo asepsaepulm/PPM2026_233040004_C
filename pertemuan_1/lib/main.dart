@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
 
               // 2. Sapaan Nama
               const Text(
-                'Halo, Ade Rizqy Maulana!',
+                'Halo, Asep Saepul Milah!',
                 style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
               ),
               const SizedBox(height: 8),
@@ -51,7 +51,7 @@ class MyApp extends StatelessWidget {
                 child: const Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Text('NIM: 233040008', style: TextStyle(fontSize: 16)),
+                    Text('NIM: 233040004', style: TextStyle(fontSize: 16)),
                     SizedBox(height: 4),
                     Text('Prodi: Teknik Informatika', style: TextStyle(fontSize: 16)),
                     SizedBox(height: 4),

@@ -92,7 +92,7 @@ class ProfilePage extends StatelessWidget {
                   ),
                   const SizedBox(height: 12),
                   const Text(
-                    'Ade Rizqy Maulana',
+                    'Asep Saepul Milah',
                     style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold),
                   ),
                   const SizedBox(height: 4),
@@ -115,7 +115,7 @@ class ProfilePage extends StatelessWidget {
             const SectionCard(
               icon: Icons.info_outline,
               title: 'Tentang Saya',
-              content: 'Saya suka belajar hal baru, terutama teknologi mobile.',
+              content: 'Saya suka belajar hal baru, terutama membuat website.',
             ),
             // TUGAS MANDIRI: SECTION SKILLS DENGAN CHIP
             Card(
