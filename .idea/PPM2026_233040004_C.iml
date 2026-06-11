@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_3/latihan/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_3/latihan/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_3/latihan/build" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_3/tugas/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_3/tugas/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_3/tugas/build" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_4/latihan/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_4/latihan/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/pertemuan_4/latihan/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
